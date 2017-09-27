@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sender</string>
+    <string-array name="app">
+        <item>Metalldetektor</item>
+        <item>Dechiffrierer</item>
+        <item>Memory</item>
+        <item>Schatzkarte</item>
+        <item>Pixelmaler</item>
+    </string-array>
+</resources>
